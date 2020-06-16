@@ -1,0 +1,20 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.khuontren{
+	width: 1366px;
+	padding: 50px 20px;
+	background-color: black;
+	color: white;
+	top:0px;
+	position: fixed;
+}
+.logo{
+	font-size: 30px;
+}
+
+.khuonduoi{
+	font-size: 22px;
+	padding-top: 150px;
+}
